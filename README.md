@@ -31,9 +31,9 @@ A **Technophile** <img src="https://github.com/anaskhan28/anaskhan28/blob/main/A
 
 ## 🏆 Github Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Arif Shaikh&show_icons=true&hide_border=true&theme=white" width="47%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=iamarifshaikh&show_icons=true&hide_border=true&theme=white" width="47%" align="right" >
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Arif Shaikh&theme=white" width="50%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=iamarifshaikh&theme=white" width="50%" >
 
 <br>
 
